@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Local Dev Server (Node.js)",
+      "type": "shell",
+      "command": "node serve.js",
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Start Local Dev Server (Python)",
+      "type": "shell",
+      "command": "python -m http.server 8080",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

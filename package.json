@@ -1,0 +1,24 @@
+{
+  "name": "jaswanth-ande-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Developer Portfolio of Jaswanth Ande - Computer Science & Engineering (AI Specialization)",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js",
+    "serve": "node serve.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "python",
+    "full-stack",
+    "ai",
+    "nlp",
+    "computer-vision",
+    "react",
+    "nodejs"
+  ],
+  "author": "Jaswanth Ande <jaswanthande98@gmail.com>",
+  "license": "MIT"
+}
